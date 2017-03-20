@@ -12,7 +12,7 @@ Cause my English is so poor, some descriptions may be given in Chinese.
 
 因为我的英语水平太渣，一些描述说明只能用中文给出。
 
-## Introduction for Each Directory
+## Introduction for Each Source File
 
 <table>
 	<thead>
@@ -23,7 +23,7 @@ Cause my English is so poor, some descriptions may be given in Chinese.
 	</thead>
 	<tbody>
 		<tr>
-			<td>cancellation in floating points</td>
+			<td>cancellation-in-floating-points</td>
 			<td>浮点系统中的抵消现象，即“大数吃小数”。</td>
 		</tr>
 		<tr>
