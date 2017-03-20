@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	float x = 1000.0f; // 10^4
+	float x = -1000.0f; // 10^4
 	float y = 0.001f; // 10^(-4)
 	cout << "Test the cancellation, which occurs during the calculation" << endl 
 	 << " between two single floating points. " << endl
